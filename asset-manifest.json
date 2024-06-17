@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/sinak/static/css/main.d5289b2f.css",
-    "main.js": "/sinak/static/js/main.680af32a.js",
+    "main.js": "/sinak/static/js/main.27632303.js",
+    "static/media/3.jpg": "/sinak/static/media/3.8b0d4ebf10f7b2662a85.jpg",
+    "static/media/15.jpg": "/sinak/static/media/15.319e4fda2458aadfbb21.jpg",
+    "static/media/22.jpg": "/sinak/static/media/22.a097e09ffdf201a1c356.jpg",
     "index.html": "/sinak/index.html",
     "main.d5289b2f.css.map": "/sinak/static/css/main.d5289b2f.css.map",
-    "main.680af32a.js.map": "/sinak/static/js/main.680af32a.js.map"
+    "main.27632303.js.map": "/sinak/static/js/main.27632303.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.680af32a.js"
+    "static/js/main.27632303.js"
   ]
 }
