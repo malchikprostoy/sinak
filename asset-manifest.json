@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sinak/static/css/main.d5289b2f.css",
-    "main.js": "/sinak/static/js/main.3cbaf201.js",
+    "main.js": "/sinak/static/js/main.680af32a.js",
     "index.html": "/sinak/index.html",
     "main.d5289b2f.css.map": "/sinak/static/css/main.d5289b2f.css.map",
-    "main.3cbaf201.js.map": "/sinak/static/js/main.3cbaf201.js.map"
+    "main.680af32a.js.map": "/sinak/static/js/main.680af32a.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.3cbaf201.js"
+    "static/js/main.680af32a.js"
   ]
 }
